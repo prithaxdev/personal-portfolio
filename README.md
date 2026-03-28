@@ -30,7 +30,7 @@ npm install -g pnpm
 1. Clone the repository:
 
    ```
-   git clone https://github.com/getparas/personal-portfolio.git
+   git clone https://github.com/prithaxdev/personal-portfolio.git
    ```
 
 2. Navigate to the project directory:
